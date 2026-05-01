@@ -1,0 +1,3 @@
+- "Analyze src/app.js for repetitive error patterns."
+- "Generate a centralized Error Handling middleware with an AppError class."
+- "Write Jest tests to verify status code propagation."
